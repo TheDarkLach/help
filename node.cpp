@@ -51,4 +51,3 @@ void Node::setRight(Node* inRight) {
 void Node::setValue(int inValue) {
   value = inValue;
 }
-© 2020 GitHub, Inc.
